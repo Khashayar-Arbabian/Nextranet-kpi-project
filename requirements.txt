@@ -4,3 +4,4 @@ Matplotlib
 Pytest
 Requests
 Python-dotenv
+scikit-learn

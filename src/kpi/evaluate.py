@@ -41,3 +41,8 @@ def mae_per_horizon(truth, pred, skip=None):
 def mase_scale(train_y):
     """MASE denominator: average one-step jump of the series in the TRAIN part."""
     return np.abs(np.diff(train_y)).mean()
+
+def forecast_mean(y, o):
+    """Extra baseline: average of the last hour (12 values)."""
+    m = y[o[:, None] - np.arange(12)].mean(axis=1)    
+    return np.repeat(m[:, None], C.HORIZON, axis=1) 

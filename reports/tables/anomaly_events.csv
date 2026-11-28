@@ -1,0 +1,94 @@
+file,time,part,peak,shift,type,in_window
+ec2_cpu_utilization_24ae8d,2014-02-15 03:05:00,train,9.794117647058824,0.0,spike,False
+ec2_cpu_utilization_24ae8d,2014-02-18 03:20:00,train,10.294117647058824,-0.007352941176470596,spike,False
+ec2_cpu_utilization_24ae8d,2014-02-20 03:35:00,train,10.764705882352942,0.0,spike,False
+ec2_cpu_utilization_24ae8d,2014-02-22 03:30:00,train,9.82352941176471,0.0,spike,False
+ec2_cpu_utilization_24ae8d,2014-02-26 22:05:00,test,16.250000000000004,-0.014705882352941192,spike,True
+ec2_cpu_utilization_53ea38,2014-02-16 03:40:00,train,1.7067115879067296,-0.03768064544729172,moderate excursion,False
+ec2_cpu_utilization_53ea38,2014-02-20 03:10:00,train,1.8973313236989107,-0.008866034222892113,moderate excursion,True
+ec2_cpu_utilization_53ea38,2014-02-22 03:10:00,train,1.7998049472470974,-0.05762922244879824,moderate excursion,False
+ec2_cpu_utilization_53ea38,2014-02-28 03:35:00,test,1.5116588350031037,-0.01329905133433817,moderate excursion,False
+ec2_cpu_utilization_5f5533,2014-02-19 00:22:00,train,1.0712520615206105,-0.05492911592326563,moderate excursion,True
+ec2_cpu_utilization_5f5533,2014-02-21 02:57:00,train,0.6177846778655806,0.043580679992909446,minor deviation,False
+ec2_cpu_utilization_5f5533,2014-02-24 18:37:00,test,-0.579374587024373,-0.26712472266840015,minor deviation,True
+ec2_cpu_utilization_5f5533,2014-02-24 21:57:00,test,1.9256079807036302,-0.09864409693310158,moderate excursion,True
+ec2_cpu_utilization_5f5533,2014-02-26 00:22:00,test,-0.185939757935847,-0.0020816657623730726,minor deviation,False
+ec2_cpu_utilization_5f5533,2014-02-27 08:07:00,test,0.2596710162289352,0.008192362032565303,minor deviation,False
+ec2_cpu_utilization_5f5533,2014-02-27 21:57:00,test,0.1951393775953671,-0.011885639998066517,minor deviation,False
+ec2_cpu_utilization_77c1ca,2014-04-04 18:45:00,train,0.9787818749906516,2.021274316435333e-05,minor deviation,False
+ec2_cpu_utilization_77c1ca,2014-04-07 04:05:00,train,0.9292404414948214,0.0,minor deviation,False
+ec2_cpu_utilization_77c1ca,2014-04-08 19:50:00,train,0.9635010411584003,0.04816696696065428,minor deviation,True
+ec2_cpu_utilization_77c1ca,2014-04-13 19:20:00,test,0.0663584358085724,0.0156345568376274,minor deviation,False
+ec2_cpu_utilization_77c1ca,2014-04-16 02:20:00,test,0.9945882401451759,0.23639813767869583,minor deviation,False
+ec2_cpu_utilization_825cc2,2014-04-15 16:54:00,train,-0.5026963234706832,-0.039467124959031846,minor deviation,True
+ec2_cpu_utilization_825cc2,2014-04-16 03:34:00,train,-0.9428043416591614,-0.9278767898602811,level shift,True
+ec2_cpu_utilization_825cc2,2014-04-16 14:19:00,train,0.961931988752007,0.9083911018571305,level shift,False
+ec2_cpu_utilization_ac20cd,2014-04-04 01:34:00,train,-0.7280174597533406,-0.7250400765234754,level shift,False
+ec2_cpu_utilization_ac20cd,2014-04-04 15:49:00,train,1.2660967734617803,0.7280410897789745,level shift,False
+ec2_cpu_utilization_ac20cd,2014-04-14 23:44:00,test,0.5102815423034173,1.5506731721702578,level shift,True
+ec2_cpu_utilization_ac20cd,2014-04-15 00:49:00,test,1.5596053218598538,1.549987901426876,level shift,True
+ec2_cpu_utilization_c6585a,2014-04-04 04:29:00,train,19.999999999999996,0.0,spike,False
+ec2_cpu_utilization_c6585a,2014-04-08 03:29:00,train,20.971428571428568,0.028571428571428595,spike,False
+ec2_cpu_utilization_c6585a,2014-04-13 04:09:00,test,19.371428571428567,0.0,spike,False
+ec2_cpu_utilization_c6585a,2014-04-15 03:19:00,test,21.94285714285714,0.0,spike,False
+ec2_cpu_utilization_fe7f93,2014-02-17 05:47:00,train,0.9381275151301213,0.6002082348478976,level shift,True
+ec2_cpu_utilization_fe7f93,2014-02-24 18:17:00,test,0.9029566558093407,0.045293837280267334,minor deviation,False
+ec2_cpu_utilization_fe7f93,2014-02-28 05:12:00,test,1.4181578321512927,-0.006602647483190839,moderate excursion,False
+ec2_disk_write_bytes_1ef3de,2014-03-03 07:59:00,train,0.015513459736029342,0.0,minor deviation,False
+ec2_disk_write_bytes_1ef3de,2014-03-10 07:59:00,train,0.01540859364196484,0.0,minor deviation,True
+ec2_disk_write_bytes_1ef3de,2014-03-10 21:09:00,train,2.7777607055605853,0.0,moderate excursion,True
+ec2_disk_write_bytes_c0d644,2014-04-07 04:10:00,train,0.821953352551304,0.0,minor deviation,False
+ec2_disk_write_bytes_c0d644,2014-04-08 19:55:00,train,0.8482714456520596,3.563856424947509e-05,minor deviation,True
+ec2_disk_write_bytes_c0d644,2014-04-10 14:35:00,train,1.6305077901479919,-0.003665343940063295,moderate excursion,True
+ec2_disk_write_bytes_c0d644,2014-04-13 19:20:00,test,0.0026000702269771917,0.0,minor deviation,False
+ec2_network_in_257a54,2014-04-15 16:54:00,train,79.53022555733396,0.010909709277172072,spike,True
+ec2_network_in_257a54,2014-04-22 16:04:00,test,0.33204678845155056,0.0028428479868738824,minor deviation,False
+ec2_network_in_5abac7,2014-03-03 08:01:00,train,0.03747878987906737,0.0,minor deviation,False
+ec2_network_in_5abac7,2014-03-10 08:01:00,train,0.03537949885082733,0.0,minor deviation,False
+ec2_network_in_5abac7,2014-03-12 21:01:00,train,1.575198022917292,0.0009624950878072862,moderate excursion,True
+elb_request_count_8c0756,2014-04-12 17:34:00,train,1.3560403621425436,0.07777290312288118,moderate excursion,True
+elb_request_count_8c0756,2014-04-18 21:04:00,train,0.9931001475690981,-0.20141187731823076,minor deviation,False
+elb_request_count_8c0756,2014-04-20 15:49:00,test,0.9970885015753997,0.017947593028357196,minor deviation,False
+elb_request_count_8c0756,2014-04-21 21:39:00,test,1.0708730506919792,0.05583695608822239,moderate excursion,False
+elb_request_count_8c0756,2014-04-22 19:34:00,test,2.249431659554102,0.059825310094523985,moderate excursion,True
+grok_asg_anomaly,2014-01-16 18:40:00,train,-3.3171409112579173,0.00013621194578732814,spike,False
+grok_asg_anomaly,2014-01-18 21:10:00,train,-0.6638016754069328,0.0,minor deviation,False
+grok_asg_anomaly,2014-01-19 08:30:00,train,-1.4122182115371518,0.0,moderate excursion,False
+grok_asg_anomaly,2014-01-20 04:05:00,train,-1.3775386501396172,0.0,moderate excursion,True
+grok_asg_anomaly,2014-01-29 00:45:00,test,-4.487774977865559,-4.556153374650957,level shift,True
+grok_asg_anomaly,2014-01-29 04:30:00,test,1.8641966900497176,-0.02233875910917387,moderate excursion,True
+grok_asg_anomaly,2014-01-29 20:20:00,test,1.794728597698018,0.0,moderate excursion,False
+grok_asg_anomaly,2014-01-30 00:20:00,test,1.8410406592658177,0.0,moderate excursion,False
+grok_asg_anomaly,2014-01-30 04:15:00,test,1.81488796567459,-0.04467751821834774,moderate excursion,False
+grok_asg_anomaly,2014-01-30 08:05:00,test,1.9026084587618335,0.02233875910917387,moderate excursion,False
+grok_asg_anomaly,2014-01-30 11:50:00,test,1.8895321119662194,0.02233875910917387,moderate excursion,False
+iio_us-east-1_i-a2eb1cd9_NetworkIn,2013-10-10 09:30:00,train,1.5610673020028303,0.3741594962717665,moderate excursion,False
+iio_us-east-1_i-a2eb1cd9_NetworkIn,2013-10-10 20:40:00,train,0.3583805957676058,-0.035861406752636237,minor deviation,True
+iio_us-east-1_i-a2eb1cd9_NetworkIn,2013-10-11 20:40:00,train,0.15204439146841744,-0.07621368957386083,minor deviation,False
+iio_us-east-1_i-a2eb1cd9_NetworkIn,2013-10-12 21:15:00,test,0.11481404778760212,0.00047799418038471555,minor deviation,False
+rds_cpu_utilization_cc0c53,2014-02-18 01:10:00,train,1.0829383886255923,-0.007109004739336763,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-23 00:40:00,train,1.1155213270142181,-0.09360189573459739,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-25 07:10:00,test,11.305272511848344,5.319905213270143,level shift,True
+rds_cpu_utilization_cc0c53,2014-02-25 09:30:00,test,0.9774881516587671,0.008886255924170954,minor deviation,True
+rds_cpu_utilization_cc0c53,2014-02-25 11:20:00,test,-1.0465936018957338,-0.1431575829383886,moderate excursion,True
+rds_cpu_utilization_cc0c53,2014-02-25 13:45:00,test,-1.677488151658769,-0.011848341232227238,moderate excursion,True
+rds_cpu_utilization_cc0c53,2014-02-25 15:15:00,test,-1.4444905213270145,-0.10367298578199095,moderate excursion,True
+rds_cpu_utilization_cc0c53,2014-02-25 17:15:00,test,-1.3260071090047398,-0.008886255924170954,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-26 01:05:00,test,-1.3151658767772518,0.016795023696682263,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-26 03:15:00,test,-1.6459123222748817,0.006901658767772214,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-26 07:55:00,test,1.2885367298578194,-0.05035545023696734,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-26 11:20:00,test,1.6913507109004744,0.04638625592417196,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-26 13:45:00,test,-1.317120853080569,0.17378554502369684,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-26 15:05:00,test,-1.6449052132701425,0.1510663507108999,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-26 19:20:00,test,-1.3408175355450234,0.27351895734597187,moderate excursion,True
+rds_cpu_utilization_cc0c53,2014-02-27 00:45:00,test,2.469401658767773,-0.05429502369668116,moderate excursion,True
+rds_cpu_utilization_cc0c53,2014-02-27 07:55:00,test,1.2736966824644553,-0.027665876777250905,moderate excursion,True
+rds_cpu_utilization_cc0c53,2014-02-27 09:50:00,test,-1.317120853080569,-0.03258293838862543,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-27 11:50:00,test,-1.2805687203791483,-0.05035545023696734,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-27 16:10:00,test,-0.9853672985782,0.3061018957345973,minor deviation,False
+rds_cpu_utilization_cc0c53,2014-02-28 02:35:00,test,-1.6627369668246443,-0.3287914691943127,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-28 06:45:00,test,-1.3605450236966836,0.3297985781990518,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-28 07:55:00,test,1.6587973933649285,0.3159656398104258,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-28 09:30:00,test,-1.3151658767772518,-0.18563388625592409,moderate excursion,False
+rds_cpu_utilization_cc0c53,2014-02-28 13:45:00,test,-1.6948163507109002,0.03356042654028508,moderate excursion,False
+rds_cpu_utilization_e47b3b,2014-04-13 06:52:00,train,3.9513411297061802,0.1973659192427686,spike,True

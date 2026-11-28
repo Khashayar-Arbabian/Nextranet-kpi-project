@@ -1,0 +1,37 @@
+file,method,family,label,window_start,window_end,detected,first_detection,delay_min
+ec2_cpu_utilization_24ae8d,per_file,error,2014-02-26 22:05:00,2014-02-26 13:45:00,2014-02-27 06:25:00,True,2014-02-26 22:05:00,0.0
+ec2_cpu_utilization_24ae8d,per_file,error,2014-02-27 17:15:00,2014-02-27 08:55:00,2014-02-28 01:35:00,False,,
+ec2_cpu_utilization_24ae8d,per_file,zscore,2014-02-26 22:05:00,2014-02-26 13:45:00,2014-02-27 06:25:00,False,,
+ec2_cpu_utilization_24ae8d,per_file,zscore,2014-02-27 17:15:00,2014-02-27 08:55:00,2014-02-28 01:35:00,False,,
+ec2_cpu_utilization_24ae8d,global,zscore,2014-02-26 22:05:00,2014-02-26 13:45:00,2014-02-27 06:25:00,False,,
+ec2_cpu_utilization_24ae8d,global,zscore,2014-02-27 17:15:00,2014-02-27 08:55:00,2014-02-28 01:35:00,False,,
+ec2_cpu_utilization_24ae8d,global,error,2014-02-26 22:05:00,2014-02-26 13:45:00,2014-02-27 06:25:00,True,2014-02-26 22:05:00,0.0
+ec2_cpu_utilization_24ae8d,global,error,2014-02-27 17:15:00,2014-02-27 08:55:00,2014-02-28 01:35:00,False,,
+ec2_cpu_utilization_5f5533,per_file,error,2014-02-24 18:37:00,2014-02-24 10:17:00,2014-02-25 02:57:00,True,2014-02-24 21:57:00,200.0
+ec2_cpu_utilization_5f5533,per_file,zscore,2014-02-24 18:37:00,2014-02-24 10:17:00,2014-02-25 02:57:00,True,2014-02-24 18:37:00,0.0
+ec2_cpu_utilization_5f5533,global,zscore,2014-02-24 18:37:00,2014-02-24 10:17:00,2014-02-25 02:57:00,False,,
+ec2_cpu_utilization_5f5533,global,error,2014-02-24 18:37:00,2014-02-24 10:17:00,2014-02-25 02:57:00,False,,
+ec2_cpu_utilization_ac20cd,per_file,error,2014-04-15 00:49:00,2014-04-14 07:49:00,2014-04-15 17:34:00,True,2014-04-15 00:49:00,0.0
+ec2_cpu_utilization_ac20cd,per_file,zscore,2014-04-15 00:49:00,2014-04-14 07:49:00,2014-04-15 17:34:00,True,2014-04-14 23:44:00,-65.0
+ec2_cpu_utilization_ac20cd,global,zscore,2014-04-15 00:49:00,2014-04-14 07:49:00,2014-04-15 17:34:00,False,,
+ec2_cpu_utilization_ac20cd,global,error,2014-04-15 00:49:00,2014-04-14 07:49:00,2014-04-15 17:34:00,True,2014-04-15 00:49:00,0.0
+ec2_disk_write_bytes_c0d644,per_file,error,2014-04-13 03:00:00,2014-04-12 21:25:00,2014-04-13 08:35:00,False,,
+ec2_disk_write_bytes_c0d644,per_file,zscore,2014-04-13 03:00:00,2014-04-12 21:25:00,2014-04-13 08:35:00,False,,
+ec2_disk_write_bytes_c0d644,global,zscore,2014-04-13 03:00:00,2014-04-12 21:25:00,2014-04-13 08:35:00,False,,
+ec2_disk_write_bytes_c0d644,global,error,2014-04-13 03:00:00,2014-04-12 21:25:00,2014-04-13 08:35:00,False,,
+elb_request_count_8c0756,per_file,error,2014-04-22 19:34:00,2014-04-22 11:14:00,2014-04-23 03:54:00,True,2014-04-22 19:34:00,0.0
+elb_request_count_8c0756,per_file,zscore,2014-04-22 19:34:00,2014-04-22 11:14:00,2014-04-23 03:54:00,True,2014-04-22 19:34:00,0.0
+elb_request_count_8c0756,global,zscore,2014-04-22 19:34:00,2014-04-22 11:14:00,2014-04-23 03:54:00,False,,
+elb_request_count_8c0756,global,error,2014-04-22 19:34:00,2014-04-22 11:14:00,2014-04-23 03:54:00,False,,
+grok_asg_anomaly,per_file,error,2014-01-29 00:45:00,2014-01-28 18:20:00,2014-01-29 07:10:00,True,2014-01-29 00:45:00,0.0
+grok_asg_anomaly,per_file,zscore,2014-01-29 00:45:00,2014-01-28 18:20:00,2014-01-29 07:10:00,True,2014-01-29 00:45:00,0.0
+grok_asg_anomaly,global,zscore,2014-01-29 00:45:00,2014-01-28 18:20:00,2014-01-29 07:10:00,False,,
+grok_asg_anomaly,global,error,2014-01-29 00:45:00,2014-01-28 18:20:00,2014-01-29 07:10:00,True,2014-01-29 00:45:00,0.0
+rds_cpu_utilization_cc0c53,per_file,error,2014-02-25 07:15:00,2014-02-24 22:50:00,2014-02-25 15:35:00,True,2014-02-25 07:10:00,-5.0
+rds_cpu_utilization_cc0c53,per_file,error,2014-02-27 00:50:00,2014-02-26 16:30:00,2014-02-27 09:10:00,True,2014-02-26 19:20:00,-330.0
+rds_cpu_utilization_cc0c53,per_file,zscore,2014-02-25 07:15:00,2014-02-24 22:50:00,2014-02-25 15:35:00,True,2014-02-25 07:10:00,-5.0
+rds_cpu_utilization_cc0c53,per_file,zscore,2014-02-27 00:50:00,2014-02-26 16:30:00,2014-02-27 09:10:00,False,,
+rds_cpu_utilization_cc0c53,global,zscore,2014-02-25 07:15:00,2014-02-24 22:50:00,2014-02-25 15:35:00,False,,
+rds_cpu_utilization_cc0c53,global,zscore,2014-02-27 00:50:00,2014-02-26 16:30:00,2014-02-27 09:10:00,False,,
+rds_cpu_utilization_cc0c53,global,error,2014-02-25 07:15:00,2014-02-24 22:50:00,2014-02-25 15:35:00,True,2014-02-25 07:10:00,-5.0
+rds_cpu_utilization_cc0c53,global,error,2014-02-27 00:50:00,2014-02-26 16:30:00,2014-02-27 09:10:00,False,,

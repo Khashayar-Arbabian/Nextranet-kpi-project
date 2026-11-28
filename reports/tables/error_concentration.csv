@@ -1,0 +1,18 @@
+file,top5pct_share,in_window_origins,err_in_vs_out_window,worst_origin
+ec2_cpu_utilization_24ae8d,0.28,33,1.2,2014-02-26 21:35:00
+ec2_cpu_utilization_53ea38,0.15,0,,2014-02-28 03:35:00
+ec2_cpu_utilization_5f5533,0.13,17,1.6,2014-02-24 21:32:00
+ec2_cpu_utilization_77c1ca,0.39,0,,2014-04-15 18:30:00
+ec2_cpu_utilization_825cc2,0.13,0,,2014-04-22 03:14:00
+ec2_cpu_utilization_ac20cd,0.29,34,1.6,2014-04-14 23:49:00
+ec2_cpu_utilization_c6585a,0.27,0,,2014-04-13 03:34:00
+ec2_cpu_utilization_fe7f93,0.23,0,,2014-02-26 04:32:00
+ec2_disk_write_bytes_1ef3de,0.43,0,,2014-03-14 19:24:00
+ec2_disk_write_bytes_c0d644,0.41,12,0.0,2014-04-14 17:30:00
+ec2_network_in_257a54,0.32,0,,2014-04-22 15:14:00
+ec2_network_in_5abac7,0.4,2,0.4,2014-03-14 18:26:00
+elb_request_count_8c0756,0.1,17,1.4,2014-04-22 18:39:00
+grok_asg_anomaly,0.35,13,3.0,2014-01-29 00:25:00
+iio_us-east-1_i-a2eb1cd9_NetworkIn,0.2,0,,2013-10-13 08:50:00
+rds_cpu_utilization_cc0c53,0.19,33,1.3,2014-02-25 06:40:00
+rds_cpu_utilization_e47b3b,0.19,0,,2014-04-22 11:07:00

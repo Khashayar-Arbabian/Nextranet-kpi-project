@@ -1,0 +1,4 @@
+method,value,labels,warned,warnings,correct,false,precision,recall,f1,avg_warning_min
+rule,0.999,22,3,69,3,66,0.043,0.14,0.066,15.0
+labels+detections,0.8,22,2,191,2,189,0.01,0.09,0.019,22.5
+labels,0.5,22,7,933,7,926,0.008,0.32,0.015,18.6

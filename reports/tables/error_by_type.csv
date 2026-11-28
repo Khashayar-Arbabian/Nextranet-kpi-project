@@ -1,0 +1,7 @@
+type,files,vs_last,vs_mean_1h
+EC2 CPU,8,0.7,0.78
+RDS CPU,2,0.67,0.87
+auto-scaling,1,0.76,0.81
+disk write,2,0.66,0.68
+network in,3,0.78,0.92
+request count,1,0.73,0.94
